@@ -1,7 +1,7 @@
 # Object Detection INT_3405 1
 Implement yolov3 with pytorch-lightning
 
-Requirement can be found at requirement.txt. To install, run: 
+Install dependency:
 ```
 pip install -r requirements.txt
 ```
