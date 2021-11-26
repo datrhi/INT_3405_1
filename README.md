@@ -1,6 +1,7 @@
 # Object Detection INT_3405 1
-Implement yolov3 with pytorch
 
+Implement yolov3 with pytorch
+This is dataset repo model repo here: 
 Model: https://github.com/datrhi/INT_3405_model
 
 # Phase 1:
