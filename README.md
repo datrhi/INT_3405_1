@@ -1,10 +1,7 @@
 # Object Detection INT_3405 1
-Implement yolov3 with pytorch-lightning
+Implement yolov3 with pytorch
 
-Install dependency:
-```
-pip install -r requirements.txt
-```
+Model: https://github.com/datrhi/INT_3405_model
 
 # Phase 1:
 1. Read yolov3 paper: https://arxiv.org/abs/1804.02767
